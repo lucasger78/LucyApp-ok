@@ -14,7 +14,7 @@ VITE_SUPABASE_URL=https://zgqeiyntejozrgkvaovu.supabase.co
 VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpncWVpeW50ZWpvenJna3Zhb3Z1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYyNjg5OTYsImV4cCI6MjA5MTg0NDk5Nn0.12XFx9Ax9awGn_-djj5PDN_QVXk8Jx2GTvej5pAjcIQ
 
 ===============================================
-NETLIFY
+NETLIFY:
 cosasricaslucy@gmail.com
 Cosasricas123@
 
