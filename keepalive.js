@@ -6,7 +6,7 @@ const supabase = createClient(
 )
 
 async function keepAlive() {
-  const { error } = await supabase.from('tu_tabla').select('*').limit(1)
+  const { error } = await supabase.from('productos').select('*').limit(1)
   if (error) {
     console.error('Error al consultar:', error.message)
     process.exit(1)
